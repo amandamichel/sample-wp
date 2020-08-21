@@ -1,3 +1,3 @@
 # WickedProblems
 
-This is my first post for this course.
+This is a test repository.
